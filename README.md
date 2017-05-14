@@ -70,11 +70,11 @@ Pay-Offs:
 	 
 Focal Strategy
 	
-            Hawk            Dove
+            	Hawk            Dove
  
- Hawk       1/2(V - C)        V
+ Hawk		1/2(V - C)	V
  
- Dove     	0	                V/2
+ Dove		0		V/2
 
 
 Assumptions:
